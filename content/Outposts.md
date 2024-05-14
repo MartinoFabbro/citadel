@@ -13,7 +13,9 @@ Citadels provide enhanced capabilities for coordinating fleet movements, monitor
 
 
 **Temporary Outposts**
-**Temporary Outposts** are smaller, more versatile structures that players can deploy quickly to establish a foothold in new or contested areas. Unlike Citadels, they are designed for flexibility and short-term use, offering critical support during exploration, resource extraction, and military operations
+**Temporary Outposts** are smaller, more versatile structures that players can deploy quickly to establish a foothold in new or contested areas. Unlike Citadels, they are designed for flexibility and short-term use, offering critical support during exploration, resource extraction, and military operations.
+
+Temporary outposts are usually devoted to a single task, whether it be defense, offensive, or intel-related.
 
 Those Outposts can be deployed rapidly, allowing players to quickly establish a presence in strategic locations. This makes them ideal for exploration missions, temporary resource extraction points, and forward operating bases in conflict zones.
 
@@ -24,3 +26,7 @@ Temporary Outposts provide essential resource support, acting as intermediate st
 Due to their temporary nature, these outposts can be relocated or dismantled as needed. This flexibility allows players to adapt to changing strategic situations, moving their operations closer to newly discovered resources or away from emerging threats.
 
 While not as heavily fortified as Citadels, Temporary Outposts can be equipped with defensive measures such as turrets and shield generators to protect against minor incursions and provide a safe haven for players operating in hostile environments.
+
+**Types of Temporary Outposts**
+We have small outposts and large outposts, they will have different fitting grids,
+in order to build outposts you need to 

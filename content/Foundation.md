@@ -18,7 +18,7 @@ The following key concepts form the backbone of our game’s design:
     
 5. **Player Roles and Specializations**: From miners and builders to commanders and spies, players can choose specialized career paths that offer unique gameplay experiences and opportunities for advancement.
     
-6. **[[Customizable Ships and Bases (Fittings)]]**: Players can customize ships and bases to meet their tactical needs using the Ship Fitting Mechanic. This feature allows players to turn a basic spaceship into a fully functional vessel that suits their strategic preferences and gameplay style.
+6. **[[Customization of Ships and Outposts (Fittings)]]**: Players can customize ships and bases to meet their tactical needs using the Ship Fitting Mechanic. This feature allows players to turn a basic spaceship into a fully functional vessel that suits their strategic preferences and gameplay style.
     
 7. **Reputation and Influence Systems**: Actions within the game will impact a player’s reputation other players, opening up new opportunities or presenting unexpected challenges.
     
