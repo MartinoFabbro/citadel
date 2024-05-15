@@ -6,11 +6,11 @@ Traveling to a new galaxy in Citadel is designed to be a significant undertaking
 
 The strategic placement of resources is crucial in Citadel. High-value resources are positioned in the central areas of the galaxy, necessitating strategic thinking around where to establish outposts and how to defend them.
 
-Conversely, essential fuel supplies are located in the outer sectors, making these areas strategic for fuel stockpiling and energy supply lines (_see [[supply chains]] paragraph_). Players must weigh the benefits of proximity to valuable central resources against the risks of increased competition and conflict, while also considering the safer, albeit less rewarding, opportunities of setting up in the outer sectors.
+Conversely, essential fuel supplies are located in the outer sectors, making these areas strategic for fuel stockpiling and energy supply lines (_see [[Supply chains]] paragraph_). Players must weigh the benefits of proximity to valuable central resources against the risks of increased competition and conflict, while also considering the safer, albeit less rewarding, opportunities of setting up in the outer sectors.
 
 Players must also manage defensive strategies, securing their territories while maintaining mobility for potential evacuations and migrations. Alliances play a critical role in survival and expansion.
 
-To be more specific regarding the galaxy concept, the game map is designed with a shape that directly influences gameplay, resource distribution, and player movement. The map is conceptualized not as a flat, uniform space but as a gradually constricting environment that narrows as one moves towards the center, known as the fulcrum.
+To be more specific regarding the galaxy concept, the game map is designed with a shape that directly influences gameplay, resource distribution, and player movement (see [[Movement, Travel, Exploration and Migrations]]). The map is conceptualized not as a flat, uniform space but as a gradually constricting environment that narrows as one moves towards the center, known as the fulcrum.
 
 As players move towards the center of the map, the playable area narrows vertically, creating a constrained environment and boosting competition.
 

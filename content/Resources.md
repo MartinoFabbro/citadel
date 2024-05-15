@@ -15,7 +15,7 @@ This distribution ensures that no single area holds all advantages, promoting a 
 
 The economy in Citadel is heavily influenced by the scarcity and abundance cycles of resources. Market prices for various goods will fluctuate based on availability, extraction costs, and technological advancements, creating a competitive market environment.
 
-Players can gain economic leverage by controlling resource nodes or specializing in the trade of specific minerals and fuels, influencing not only economic decisions but also tactical planning. Alliances and individual players must consider their proximity to resource-rich areas when planning their [[supply chains]].
+Players can gain economic leverage by controlling resource nodes or specializing in the trade of specific minerals and fuels, influencing not only economic decisions but also tactical planning. Alliances and individual players must consider their proximity to resource-rich areas when planning their [[Supply chains]].
 
 ### Minerals
 

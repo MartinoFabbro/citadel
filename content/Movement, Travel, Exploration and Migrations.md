@@ -1,11 +1,43 @@
-Movement should not be easy to [[Multiboxing]] (in specific PvP situations) and it should allow players to seamlessly embrace and play with the surrounding environment.  
-  
-Therefore our proposal here is to embrace a modified version of how vector movement actually works with 3 main, interchangeable movement options.  
-  
-**Vector-based Free Movement**: Players take direct control of the ship’s navigation system, (which provides the player a different user experience from combat system UX). The primary mode of movement allows players to define a forward movement vector (X-axis) that determines the direction the ship will head. Subsequently, they can choose a secondary vector (Y-axis) for upward or downward movement relative to the primary vector. Beyond basic vector setups, players can apply modifiers such as "move to spot," "continue indefinitely in the chosen direction," "perform evasive maneuvers" and so on.  
-  
-**Quick-Action Movements**: This subset of movement actions provides players with immediate, time-efficient maneuvers that don’t involve complex vector configurations. Commands like "go up," "go left," "go right," and "go down" simplify immediate positional adjustments during battles or tight navigational scenarios. Players are prompted with a single locked vector and only need to specify the distance.  
-  
-**Environment-Based Movement**: The second major type of movement takes into account the surrounding environment, allowing the pilot to dynamically interact with space objects and conditions. Actions like "approach," "keep at distance," or "move inside" enable pilots to maneuver in relation to other objects or locations (and their shape).
 
 
+## Movement
+
+**Citadel** leverages a ship movement system designed to enhance player engagement and strategic depth. The proposed movement system incorporates three main, interchangeable movement options: Vector-based Free Movement, Quick-Action Movements, and Environment-Based Movement.
+### Vector-based Free Movement
+
+**Direct Control:** Players take direct control of their ship’s navigation system, experiencing a user interface distinct from the combat system. This primary mode of movement allows for precise and strategic navigation by defining a forward movement vector (X-axis). Once the primary direction is set, players can choose a secondary vector (Y-axis) to move the ship upward or downward relative to the primary vector.
+
+**Modifiers and Enhancements:** Beyond basic vector setups, players can enhance their navigation with several modifiers, including:
+
+- **Move to Spot:** Directs the ship to a specific coordinate or location
+
+- **Continue Indefinitely:** Sets the ship on a continuous path along the chosen vector until manually stopped or redirected.
+  
+- **Perform Evasive Maneuvers:** Enables quick, reactive movements to dodge enemy fire or obstacles, based on the current vector paths
+
+- **Adjust Speed:** Players can also control the speed of movement along the vector, allowing for gradual acceleration or deceleration as needed.
+
+[...]
+
+### Quick-Action Movements
+
+**Immediate Maneuvers:** This subset of movement actions provides players with quick, time-efficient maneuvers that do not require complex vector configurations. These commands are essential for immediate positional adjustments during battles or tight navigational scenarios. They have a more streamlined interface for rapid responses.
+
+**Commands and Execution:**
+
+- **Go Up, Left, Right, Down:** Simple commands that adjust the ship's position instantly in the specified direction based on a preset distance. This is particularly useful for dodging attacks, navigating around obstacles, or making quick tactical adjustments during combat.
+- **Distance Specification:** Players are prompted with a single locked vector direction and only need to specify the distance to execute the maneuver.
+
+### Environment-Based Movement
+
+**Dynamic Environmental Interaction:** The second major type of movement accounts for the surrounding environment, allowing pilots to interact dynamically with space objects and conditions. This mode is crucial for strategic positioning relative to environmental features and other in-game elements.
+
+**Actions and Benefits:**
+
+- **Approach:** Closes the distance to a targeted object or location, such as docking with a space station or moving toward an asteroid for mining.
+- **Keep at Distance:** Maintains a specified distance from an object, useful for orbital maneuvers or maintaining a tactical position relative to an enemy.
+- **Move Inside:** Enables navigation into structures or through tighter spaces, such as moving inside a nebula for cover or through an asteroid field for resource extraction.
+- **Environmental Adaptation:** Ships can adapt their movement to environmental conditions, leveraging cover, exploiting terrain, or avoiding hazards
+
+
+## Travel
