@@ -8,5 +8,4 @@ Therefore our proposal here is to embrace a modified version of how vector movem
   
 **Environment-Based Movement**: The second major type of movement takes into account the surrounding environment, allowing the pilot to dynamically interact with space objects and conditions. Actions like "approach," "keep at distance," or "move inside" enable pilots to maneuver in relation to other objects or locations (and their shape).
 
-**Traveling**
 

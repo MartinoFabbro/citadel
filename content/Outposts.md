@@ -28,5 +28,6 @@ Due to their temporary nature, these outposts can be relocated or dismantled as 
 While not as heavily fortified as Citadels, Temporary Outposts can be equipped with defensive measures such as turrets and shield generators to protect against minor incursions and provide a safe haven for players operating in hostile environments.
 
 **Types of Temporary Outposts**
-We have small outposts and large outposts, they will have different fitting grids,
-in order to build outposts you need to 
+Initially, the game features two main types of outposts: small outposts and large outposts, each with different fitting grid sizes. (see [[Customization of Ships and Outposts (Fittings)]])
+
+Citadels and Outposts require dedicated construction platforms in space. see [[Building]] section for a more detailed description

@@ -33,6 +33,7 @@ The following key concepts form the backbone of our game’s design:
     "*Infantry wins battles, logistics wins wars*."
     
 12. **[[Multiboxing]]**: In a world where time and distance are important factors, players will spend a lot of time traveling to various locations. To keep players engaged, the game encourages and facilitates multiboxing by allowing pilots to easily switch between available ships.
+13. **[[Outposts]]**: outposts play a vital role in establishing player presence and expanding influence across the galaxy. These structures come in two primary forms: Citadels and Temporary Outposts, each serving distinct purposes and offering unique advantages. 
 
 
 This document is intended to guide developers, artists, and content creators in understanding the intricate details of the game mechanics and the interplay between different elements. By adhering to the guidelines and concepts outlined herein, we aim to create a consistent, engaging, and thrilling experience that will captivate our players for years to come.
