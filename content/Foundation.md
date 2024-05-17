@@ -1,5 +1,3 @@
-
-
 This document outlines the detailed design plan for Citadel, a game that aims to reshape the boundaries of strategic multiplayer environments. This document serves as the cornerstone for the development of a vast, dynamic universe where player decisions and interactions shape the course of the game's evolving narrative and complex ecosystem.
 
 Our game is set in a complex universe where power, resources, and territory are constantly changing. Players will navigate through a world where their strategic choices not only influence their own survival and prosperity but also impact the broader dynamics of the game environment.
@@ -7,7 +5,7 @@ Our game is set in a complex universe where power, resources, and territory are 
 The following key concepts form the backbone of our game’s design:
 
 1. **Dynamic [[World Structure]]**: Players will engage with a changing universe where environmental factors such as asteroid storms, cosmic anomalies, and solar flares directly impact players strategies.  
-    Players will have to deal and take advantage of the environmental diversity present in the game world, choke points, clearings, tunnels, pockets are all scenarios that will have to be carufelly analyzed in order to take the best strategic decisions.
+    Players will have to deal and take advantage of the environmental diversity present in the game world, choke points, clearings, tunnels, pockets are all scenarios that will have to be carefully analyzed in order to take the best strategic decisions.
     
 2. **Advanced Diplomacy and Espionage**: Our game allows players to forge alliances, engage in diplomatic negotiations, and conduct covert operations against rivals.  
     Players will engage in the exploration of uncharted and hostile territories ([[Movement, Travel, Exploration and Migrations]]), relying on their ship's radar systems to navigate and either evade or engage enemies for survival.
@@ -34,6 +32,7 @@ The following key concepts form the backbone of our game’s design:
     
 12. **[[Multiboxing]]**: In a world where time and distance are important factors, players will spend a lot of time traveling to various locations. To keep players engaged, the game encourages and facilitates multiboxing by allowing pilots to easily switch between available ships.
 13. **[[Outposts]]**: outposts play a vital role in establishing player presence and expanding influence across the galaxy. These structures come in two primary forms: Citadels and Temporary Outposts, each serving distinct purposes and offering unique advantages. 
+14. Tactical-first combat system: 
 
 
 This document is intended to guide developers, artists, and content creators in understanding the intricate details of the game mechanics and the interplay between different elements. By adhering to the guidelines and concepts outlined herein, we aim to create a consistent, engaging, and thrilling experience that will captivate our players for years to come.

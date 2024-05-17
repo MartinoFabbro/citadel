@@ -1,4 +1,3 @@
-
 ### **Introduction**
 
 During the first phase of the game, the Citadel economy primarily depends on two primary resources: mineral deposits and fuel nebulae, which sustain the initial game play loops.

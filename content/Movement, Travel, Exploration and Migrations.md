@@ -1,5 +1,3 @@
-
-
 ## Movement
 
 **Citadel** leverages a ship movement system designed to enhance player engagement and strategic depth. The proposed movement system incorporates three main, interchangeable movement options: Vector-based Free Movement, Quick-Action Movements, and Environment-Based Movement.
@@ -41,3 +39,6 @@
 
 
 ## Travel
+
+### Exploration
+Exploration is an activity primarily carried out with the help of a scanner module (see [[Scanning]]) 
