@@ -30,4 +30,4 @@ While not as heavily fortified as Citadels, Temporary Outposts can be equipped w
 **Types of Temporary Outposts**
 Initially, the game features two main types of outposts: small outposts and large outposts, each with different fitting grid sizes. (see [[Customization of Ships and Outposts (Fittings)]])
 
-Citadels and Outposts require dedicated construction platforms in space. see [[Building]] section for a more detailed description
+Citadels and Outposts require dedicated construction platforms in space. start from the [[Industry]] section for a more detailed description

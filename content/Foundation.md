@@ -10,9 +10,9 @@ The following key concepts form the backbone of our game’s design:
 2. **Advanced Diplomacy and Espionage**: Our game allows players to forge alliances, engage in diplomatic negotiations, and conduct covert operations against rivals.  
     Players will engage in the exploration of uncharted and hostile territories ([[Movement, Travel, Exploration and Migrations]]), relying on their ship's radar systems to navigate and either evade or engage enemies for survival.
     
-3. **Complex Economic System**: The game's core is a dynamic economy shaped by player decisions, with supply and demand affecting market conditions and resources. Strong alliances with resilient supply chains will thrive, while others will struggle to support their industry and military.
+3. **Complex Economic System** ([[Industry]]): The game's core is a dynamic economy shaped by player decisions, with supply and demand affecting market conditions and resources. Strong alliances with resilient supply chains will thrive, while others will struggle to support their industry and military.
     
-4. **Technology [[Research]] and Development**: Players will invest in technology, unlocking new ships capabilities, and modules as they progress through an unlimited industry progression system.
+4. **Technology [[Blueprints]] and Development**: Players will invest in technology, unlocking new ships and modules capabilities as they progress through an unlimited industry progression system.
     
 5. **Player Roles and Specializations**: From miners and builders to commanders and spies, players can choose specialized career paths that offer unique gameplay experiences and opportunities for advancement.
     
@@ -26,7 +26,7 @@ The following key concepts form the backbone of our game’s design:
     
 10. **Player-driven [[NPE]]:** New Player Experience will be mostly driven by their peers, pilots will be immediately integrated into a social environment, and alliances will be responsible for guiding players during their initial experiences in the universe.
     
-11. **Different layers of [[combat]]**: Combat in the game is a complex experience that goes beyond just exchanging firepower. It connects closely with the game's strategic and tactical components like ship customization, gathering resources, and technological advancements. This ensures that each battle is impacted by wider gameplay choices.
+11. **Different layers of [[Combat]]**: Combat in the game is a complex experience that goes beyond just exchanging firepower. It connects closely with the game's strategic and tactical components like ship customization, gathering resources, and technological advancements. This ensures that each battle is impacted by wider gameplay choices.
     
     "*Infantry wins battles, logistics wins wars*."
     

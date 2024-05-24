@@ -43,8 +43,4 @@ The layout grid system is a 2D grid where each cell represents a unit of space t
     - **Storage:** Warehouses and silos for storing raw materials, fuel, and finished goods.
     - **Command and Control:** Modules that enhance the outpost’s operational capabilities, including communication arrays and strategic planning centers.
 
-**Strategic Placement:** Players must place these modules thoughtfully within the grid to maximize the outpost’s functionality and defense. Balancing space for production, defense, and support facilities is crucial to creating an effective and resilient outpost.
-
-### Conclusion
-
-The layout grid system in **Citadel** introduces a deep layer of strategic customization for both ships and outposts. By carefully selecting and placing modules within the grid, players can tailor their assets to suit their specific needs and strategies. This system not only enhances the tactical depth of the game but also ensures that each ship and outpost is unique, reflecting the player’s decisions and priorities.
+Players must balance space for production, defense, and support facilities is crucial to creating an effective and resilient outpost.

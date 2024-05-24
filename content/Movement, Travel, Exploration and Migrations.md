@@ -27,7 +27,7 @@
 - **Distance Specification:** Players are prompted with a single locked vector direction and only need to specify the distance to execute the maneuver.
 
 ### Environment-Based Movement
-
+d
 **Dynamic Environmental Interaction:** The second major type of movement accounts for the surrounding environment, allowing pilots to interact dynamically with space objects and conditions. This mode is crucial for strategic positioning relative to environmental features and other in-game elements.
 
 **Actions and Benefits:**

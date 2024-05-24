@@ -6,11 +6,11 @@ The building process varies depending on the size and complexity of the structur
 
 - **Construction Process:** Small ships can be built inside industrial outposts equipped with shipyard modules. These facilities provide the necessary tools, resources, and space to assemble smaller vessels efficiently.
   
-- **Resource Requirements:** Building a ship requires various raw materials, such as metals, electronics, and fuel. Players must gather these resources from mining operations or trade.
+- **Resource Requirements:** [[Building a ship]] (or an outpost) requires various raw materials, such as metals, electronics, and fuel. Players must gather these resources from mining operations or trade.
   
-- **[[Blueprints]]:** Players use blueprints to construct ships. These blueprints can be obtained through research, trade, or discovery (TBD this one) and dictate the specifications and required ideal materials for the ship.
+- **[[Blueprints]]:** Players use blueprints to construct ships. These blueprints can be obtained through research, trade, or discovery (TBD this one) and dictate the specifications and re quired ideal materials for the ship.
 
-- **Assembly:** The construction process involves allocating resources to the shipyard, selecting the blueprint, and initiating the build. The shipyard’s capabilities, such as production speed and capacity, can be enhanced with structure upgrades and specialized modules.
+- **[[Industry]]:** The construction process involves allocating resources to the shipyard, selecting the blueprint, and initiating the build. The shipyard’s capabilities, such as production speed and capacity, can be enhanced with structure upgrades and specialized modules.
 
 ### Building Large Ships and Outposts
 
