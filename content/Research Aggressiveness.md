@@ -1,0 +1,7 @@
+Research aggressiveness in **Citadel** is a mechanic that lets players control the speed and risk of their technological advancements.
+
+A conservative research approach focuses on careful, methodical progress with minimal risk of failure, taking longer to achieve results but offering reliability and cost-effectiveness. Balanced research offers a compromise between speed and reliability, accelerating the research process while maintaining a manageable level of risk and higher resource consumption. Aggressive research prioritizes speed over caution, leading to rapid advancements but with significant risk of failure and very high resource costs.
+
+The speed of research varies, with conservative being slow, balanced moderate, and aggressive fast. The risk of failure increases from low in conservative to high in aggressive, with fewer safeguards in place. Resource consumption also escalates, from moderate in conservative to very high in aggressive, as faster processes often lead to waste.
+
+For instance, researching a new weapon system might take 30 days with a 5% failure rate and moderate resource cost using a conservative approach. A balanced approach might reduce the time to 20 days with a 15% failure rate and higher resource cost. An aggressive approach might cut the time to 10 days but with a 35% failure rate and very high resource cost.

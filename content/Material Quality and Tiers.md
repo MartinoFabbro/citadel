@@ -1,3 +1,4 @@
+Materials are categorized into tiers based on their quality and attributes. Each tier represents a range of purity and effectiveness, with higher tiers offering superior performance and greater benefits.
 
 **(Tier 1)**
 

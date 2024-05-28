@@ -1,9 +1,9 @@
 From raw material extraction to the finished product...
-
 ### Extraction
 
 As mentioned in the [[Resources]] section, mining operations begin with extracting raw materials in their most unrefined state, containing various impurities and mixed mineral content. Once extracted, the raw minerals are transported to a processing facility, which could be an outpost equipped with basic processing capabilities. The initial step involves sorting the raw materials to separate the valuable minerals from the waste rock and other impurities.
 
+https://docs.google.com/spreadsheets/d/1lO3C4xRj_Gey6mXKbaaTKrRfL8QmmtAm2BDdkdOgL2U/edit#gid=0
 ### Refining Cycles
 
 The first refining cycle typically occurs in a basic refinery. This facility processes the raw minerals, reducing impurities and increasing the concentration of the desired material. Each refining cycle results in some loss of material. 
@@ -18,6 +18,8 @@ Players can choose to process the minerals further using more advanced refining 
 2. The first refining cycle yields 7,000 units of Watermelonium with 0.4 purity (C Tier).
 3. The second refining cycle yields 4,900 units of Watermelonium with 0.6 purity (B Tier).
 4. The third refining cycle yields 3,430 units of Watermelonium with 0.8 purity (A Tier).
+
+This should take into account the fact that each refining cycle the amount of "filler" rocks is decreased drastically
 
 ### Final Product
 

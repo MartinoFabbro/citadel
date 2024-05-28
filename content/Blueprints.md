@@ -6,7 +6,9 @@ Once obtained, blueprints can be continuously researched to improve the output i
 
 - **Indefinite Improvement:** Players can research their blueprints indefinitely, enhancing aspects such as durability, efficiency, and power. This ensures that older ships or items become progressively less competitive compared to upgraded versions
 
-- **Research Aggressiveness:** Players can choose the aggressiveness of their research. More aggressive research speeds up the improvement process but also increases the chances of research failure, adding a risk-reward element to blueprint advancement.
+- **[[Research Aggressiveness]]:** Players can choose the aggressiveness of their research. More aggressive research speeds up the improvement process but also increases the chances of research failure, adding a risk-reward element to blueprint advancement.
+  
+- **[[Industrial espionage]]**:  Constructing advanced ships, outposts, and items often requires collaboration. Players must share their blueprints with trusted allies or specialized builders who possess the necessary facilities and skills. This sharing process inherently involves risks, as the recipient may attempt to steal the blueprint's content and advancements.
 
 Similar to _EVE Online_, blueprints must be placed in stasis during the research process. This means that the blueprint cannot be used to construct new items while it is being upgraded.
 
@@ -158,33 +160,3 @@ In **Citadel**, constructing a Chicken-Class Interceptor requires gathering vari
 2. **Integration:** Begin the assembly process by integrating the pipes, wiring, and nuclear core energizer with the hull and structural elements made from Watermelonium.
 3. **Final Checks:** Conduct thorough quality checks to ensure all components meet the blueprint requirements and function as expected.
 
-
-
-
-```
-* g o a t s e x * g o a t s e x * g o a t s e x *
-g                                               g
-o /     \             \            /    \       o
-a|       |             \          |      |      a
-t|       `.             |         |       :     t
-s`        |             |        \|       |     s
-e \       | /       /  \\\   --__ \\       :    e
-x  \      \/   _--~~          ~--__| \     |    x
-*   \      \_-~                    ~-_\    |    *
-g    \_     \        _.--------.______\|   |    g
-o      \     \______// _ ___ _ (_(__>  \   |    o
-a       \   .  C ___)  ______ (_(____>  |  /    a
-t       /\ |   C ____)/      \ (_____>  |_/     t
-s      / /\|   C_____)Citadel|  (___>   /  \    s
-e     |   (   _C_____)\_game_/  // _/ /     \   e
-x     |    \  |__   \\_________// (__/       |  x
-*    | \    \____)   `----   --'             |  *
-g    |  \_          ___\       /_          _/ | g
-o   |              /    |     |  \            | o
-a   |             |    /       \  \           | a
-t   |          / /    |         |  \           |t
-s   |         / /      \__/\___/    |          |s
-e  |           /        |    |       |         |e
-x  |          |         |    |       |         |x
-* g o a t s e x * g o a t s e x * g o a t s e x *
-```
