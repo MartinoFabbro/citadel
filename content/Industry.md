@@ -12,7 +12,7 @@ This chapter serves as a general overview of every game-play loop required to bu
 
 **[[Material Quality and Tiers]]**
 
-**Quality Categorization**: Minerals and other resources are categorized into different quality tiers, from Basic (Tier 1) to Advanced (Tier 5). Higher-quality materials provide better performance and efficiency in manufactured goods.
+**Quality Categorization**: Minerals and other resources are categorized into different quality tiers. Higher-quality materials provide better performance and efficiency in manufactured goods.
 
 (Under construction)
 

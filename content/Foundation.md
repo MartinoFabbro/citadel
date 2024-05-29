@@ -1,3 +1,8 @@
+
+“_Citadel is a hardcore sandbox MMO that blends the intricate economies of EVE Online, the survival dynamics of Rust, and the strategic space warfare of Homeworld. This fusion creates a universe where time, space, and economic resources are not just factors but the foundation of every decision, strategy, and alliance_.”
+
+**Citadel** combines dynamic PvP sandbox gameplay with continuous technological advancement and deep strategic resource management. Players influence the evolving universe through exploration, espionage, and a robust player-driven economy. Powered by blockchain, **Citadel** utilizes a DAO for decentralized game decisions, giving players control over the game’s development and governance, ensuring a truly player-driven experience.
+
 This document outlines the detailed design plan for Citadel, a game that aims to reshape the boundaries of sandbox multiplayer environments. This document serves as the cornerstone for the development of a vast, dynamic universe where player decisions and interactions shape the course of the game's evolving narrative and complex ecosystem.
 
 Our game is set in a complex universe where power, resources, and territory are constantly changing. Players will navigate through a world where their strategic choices not only influence their own survival and prosperity but also impact the broader dynamics of the game environment.
@@ -48,9 +53,16 @@ The following key concepts form the backbone of our game’s design:
 13. **[[Outposts]]**: 
     Outposts play a vital role in establishing player presence and expanding influence across the galaxy. These structures come in two primary forms: Citadels and Temporary Outposts, each serving distinct purposes and offering unique advantages. 
     
-14. Tactical-first [[combat]] system:
+14. Tactical-first [[combat]] system:  TBD
+15. Player driven development decisions via a [[DAO]]: TBD
 
 
-This document is intended to guide developers, artists, and content creators in understanding the intricate details of the game mechanics and the interplay between different elements. By adhering to the guidelines and concepts outlined herein, we aim to create a consistent, engaging, and thrilling experience that will captivate our players for years to come.
+This document is intended to guide developers, artists, and content creators in understanding the intricate details of the game mechanics and the interplay between different elements. By adhering to the guidelines and concepts outlined herein, we aim to create a consistent experience that will captivate our players for years to come.
 
-“_Citadel is a hardcore sandbox MMO that blends the intricate economies of EVE Online, the survival dynamics of Rust, and the strategic space warfare of Homeworld. This fusion creates a universe where time, space, and economic resources are not just factors but the foundation of every decision, strategy, and alliance_.”
+
+
+
+
+
+
+

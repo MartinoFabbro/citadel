@@ -22,7 +22,7 @@ Similar to _EVE Online_, blueprints must be placed in stasis during the research
 **Construction Facility Quality:** The quality of the construction facilities also plays a crucial role:
 
 - **Basic Facilities:** Capable of producing items to standard specifications.
-- **Upgraded Facilities:** Can significantly boost production speed and quality, leveraging advanced technology to bring out the best in the blueprints.
+- **Upgraded Facilities:** Can significantly boost production speed, consistency and quality, leveraging advanced technology to bring out the best in the blueprints.
 
 ### Scaling of Traits
 
@@ -64,10 +64,7 @@ In **Citadel**, constructing a Chicken-Class Interceptor requires gathering vari
     
     - **Quantity:** 2500 units
     - **Minimum Electrical Conductivity:** F Tier
-      
-1. **Watermelonium:**
-    
-    - **Quantity:** 1,000,000 m³
+
 
 
 (Tiers are a way to visually display the float value of the property which goes from 0 to 1, the closer the property is to 1, the higher the purity of the mineral is (see [[Processing and Refining]]))
@@ -152,7 +149,6 @@ In **Citadel**, constructing a Chicken-Class Interceptor requires gathering vari
 - **Pipes:** 100 units of C Tier strength pipes from 100,000 m³ of Watermelonium.
 - **Wiring:** 2500 units of A Tier conductivity wiring from 2500 m³ of Watermelonium.
 - **Nuclear Core Energizer:** 1 unit meeting the D Tier power output requirement.
-- **Watermelonium:** 1,000,000 m³ reserved for hull construction and other structural elements.
 
 
 **Process:**

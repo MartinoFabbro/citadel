@@ -1,4 +1,5 @@
 **Citadels**
+
 Players have the ability to construct and manage various types of structures, each serving different strategic and operational purposes. Among these, Citadels and Temporary Outposts play crucial roles in the establishment of player presence, resource management, and territorial control.
 
 Citadels are the strongest of the player-constructed fortifications, representing significant investments of resources and time. They are the primary strongholds within the game, offering a multitude of functions and benefits to their owners.
@@ -13,6 +14,7 @@ Citadels provide enhanced capabilities for coordinating fleet movements, monitor
 
 
 **Temporary Outposts**
+
 **Temporary Outposts** are smaller, more versatile structures that players can deploy quickly to establish a foothold in new or contested areas. Unlike Citadels, they are designed for flexibility and short-term use, offering critical support during exploration, resource extraction, and military operations.
 
 Temporary outposts are usually devoted to a single task, whether it be defense, offensive, or intel-related.

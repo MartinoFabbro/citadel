@@ -10,7 +10,7 @@ Conversely, essential fuel supplies are located in the outer sectors, making the
 
 Players must also manage defensive strategies, securing their territories while maintaining mobility for potential evacuations and migrations. Alliances play a critical role in survival and expansion.
 
-To be more specific regarding the galaxy concept, the game map is designed with a shape that directly influences gameplay, resource distribution, and player movement (see [[Movement, Travel, Exploration and Migrations]]). The map is conceptualized not as a flat, uniform space but as a gradually constricting environment that narrows as one moves towards the center, known as the fulcrum.
+To be more specific regarding the galaxy concept, the game map is designed with a shape that directly influences game play, resource distribution, and player movement (see [[Movement, Travel, Exploration and Migrations]]). The map is conceptualized not as a flat, uniform space but as a gradually constricting environment that narrows as one moves towards the center, known as the fulcrum.
 
 As players move towards the center of the map, the playable area narrows vertically, creating a constrained environment and boosting competition.
 

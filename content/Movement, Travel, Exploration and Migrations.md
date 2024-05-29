@@ -27,7 +27,7 @@
 - **Distance Specification:** Players are prompted with a single locked vector direction and only need to specify the distance to execute the maneuver.
 
 ### Environment-Based Movement
-d
+
 **Dynamic Environmental Interaction:** The second major type of movement accounts for the surrounding environment, allowing pilots to interact dynamically with space objects and conditions. This mode is crucial for strategic positioning relative to environmental features and other in-game elements.
 
 **Actions and Benefits:**
@@ -40,5 +40,19 @@ d
 
 ## Travel
 
-### Exploration
+**Short-Range Navigation:** For moving around local areas, such as navigating within asteroid fields or docking with space stations, players use the detailed vector-based and quick-action movements.
+
+**Long-Range Travel:** For traveling between distant locations, players set a direction and navigate towards unknown destinations or use shared way points from friendly players to reach specific locations efficiently.
+
+**Choke Points and Clearings:** The game world is filled with natural and artificial structures that create strategic choke points and clearings. These features influence travel routes and require players to plan their movements carefully to avoid ambushes or take advantage of defensive positions.
+
+**Sector Diversity:** The game universe is divided into sectors, each with unique characteristics. Some sectors are dense with mega structures, providing natural choke points and complex navigation challenges. Others offer more open space, favoring different styles of game play, such as hit-and-run tactics or large fleet maneuvers.
+
+**Fuel Management:** Travel requires fuel, especially for long-range journeys. Players must manage their fuel resources, balancing between exploration and operational efficiency. Fuel nebula located in outer sectors provide the necessary resources for sustained travel and must be strategically harvested.
+
+### Exploration and Prospecting
 Exploration is an activity primarily carried out with the help of a scanner module (see [[Scanning]]) 
+
+This activity involves scanning asteroids, structures, and other bodies to locate valuable resources such as minerals, gases, and exotic materials. The quality and quantity of detected resources can vary, requiring multiple scans and analysis.
+
+*The exploration rewards are still tbh*

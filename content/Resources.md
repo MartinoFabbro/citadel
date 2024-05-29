@@ -1,6 +1,7 @@
 ### **Introduction**
 
 During the first phase of the game, the Citadel economy primarily depends on two primary resources: mineral deposits and fuel nebulae, which sustain the initial game play loops.
+Those two resources are randomly spread around the world ([[Resource Distribution]])  
 
 In Citadel, strategic resource distribution is a central aspect of the entire game as it influences economic dynamics, player strategies, and alliances. Each galaxy has a "fulcrum," the central area with the most abundant concentration of minerals, highly desirable for groups aiming to profit from its richness.
 
@@ -22,16 +23,13 @@ In Citadel, similarly to other games, minerals play a crucial role in the game p
 
 #### **Types and Properties of Minerals**
 
-Minerals in games typically vary across several dimensions that affect their use in crafting and construction. Here are some of the common properties that distinguish different minerals:
+Minerals in games typically vary across several dimensions that affect their use in crafting and construction. Here are some examples of the common properties that distinguish different minerals:
 
 1. **Density:** Affects how much a mineral weighs and how much space it occupies, properties which influence the design and function of structures and ships. High-density minerals are commonly used in heavy armor and fortifications modules, while low-density minerals are to be preferred for components that aim at reducing the overall mass of the item/ship.
 2. **Hardness:** Determines a mineral's resistance. Harder minerals are ideal for creating durable surfaces and protective coatings, essential for combat ships and defensive structures.
 3. **Conductivity:** This can refer to either thermal or electrical conductivity. Minerals with high electrical conductivity are crucial for electronic components and power systems, while those with high thermal conductivity are used in power grid management systems.
 4. **Targeted Resistance Properties of Minerals:** This refers to minerals that exhibit specific resistance to different types of weaponry are crucial for crafting defensive components tailored to varied combat scenarios. Certain minerals might be particularly effective at absorbing or deflecting energy-based attacks, making them ideal for shielding against lasers or plasma weapons. Others might possess high resistance to physical damage, such as projectiles or explosive impacts.
-5. **Strength**
-6. **Brittleness** and **Solidity**
 7. **Magnetism**: The higher the magnetism of the material the higher will be the signature radius of the ship.
-8. 
 
 […]  
 
@@ -49,16 +47,16 @@ Minerals can be broadly categorized based on their common uses and properties in
     
 5. **Precious Minerals:** Typically rare and used for high-value applications, including economic (trade or currency) or advanced technological applications. Examples might include platinum and rare earth elements.
     
-6. **Utility Minerals:** Commonly used for general-purpose applications across various aspects of gameplay, such as silica for glass or limestone for basic building materials.
+6. **Utility Minerals:** Commonly used for general-purpose applications across various aspects of game play, such as silica for glass or limestone for basic building materials.
     
 
 Various minerals can be used to construct different items, but certain minerals will be more suitable for specific purposes, even if they are not exclusive to the blueprint BOM.
 
-### **Fuel and its implications**
+### **Fuel and its [[Fuel implications]]**
 
-Fuel is essential for the operation of ships, from small fighters and batteleships to capital ships. It powers engines for travel between points in space, operates various ship systems, and, in some cases, fuels weapons. Fuel is a top priority for players as it affects decisions on exploring, expanding, and engaging in activities.
+Fuel is essential for the operation of ships, from small fighters and battleships to capital ships. It powers engines for travel between points in space, operates various ship systems, and, in some cases, fuels weapons. Fuel is a top priority for players as it affects decisions on exploring, expanding, and engaging in activities.
 
-Control over fuel resources and supply lines can grant significant strategic advantages. Players or alliances that secure fuel-rich areas can maintain longer operational capacities and enforce control over crucial chokepoints or trade routes. Conversely, a shortage of fuel can cripple military campaigns and hinder economic development.
+Control over fuel resources and supply lines can grant significant strategic advantages. Players or alliances that secure fuel-rich areas can maintain longer operational capacities and enforce control over crucial choke points or trade routes. Conversely, a shortage of fuel can cripple military campaigns and hinder economic development.
 
 Fuel availability influences how far players can venture from established bases or safe zones. The need to refuel can dictate the pace and direction of exploration, making fuel depots and efficient supply chains critical for territorial expansion.
 

@@ -1,6 +1,11 @@
+
+**Target audience**
+
 Citadel is pioneering into the realm of native onchain gaming, specifically designed for a core audience accustomed with blockchain technology.  
 This game sets out to push the boundaries of what has previously been achieved in web3 gaming environments.  
 The initial core target audience for Citadel consists of web3 natives; players who are comfortable navigating blockchain technology and understand its implications both technically and culturally. These players are ~~monk…~~ pioneers, already deeply embedded in the ecosystem of cryptocurrencies, NFTs, and decentralized applications.
+
+**Our approach**
 
 Citadel’s approach to the New Player Experience (NPE) deviate significantly from traditional gaming approaches. Recognizing that our players are accustomed to the community-driven nature of web3, the NPE in Citadel is designed to be inherently social and integrated within the community from the outset.
 
