@@ -1,4 +1,3 @@
-
 “_Citadel is a hardcore sandbox MMO that blends the intricate economies of EVE Online, the survival dynamics of Rust, and the strategic space warfare of Homeworld. This fusion creates a universe where time, space, and economic resources are not just factors but the foundation of every decision, strategy, and alliance_.”
 
 **Citadel** combines dynamic PvP sandbox gameplay with continuous technological advancement and deep strategic resource management. Players influence the evolving universe through exploration, espionage, and a robust player-driven economy. Powered by blockchain, **Citadel** utilizes a DAO for decentralized game decisions, giving players control over the game’s development and governance, ensuring a truly player-driven experience.
@@ -54,7 +53,7 @@ The following key concepts form the backbone of our game’s design:
     Outposts play a vital role in establishing player presence and expanding influence across the galaxy. These structures come in two primary forms: Citadels and Temporary Outposts, each serving distinct purposes and offering unique advantages. 
     
 14. Tactical-first [[combat]] system:  TBD
-15. Player driven development decisions via a [[DAO]]: TBD
+15. Player driven development decisions ([[Governance foundation]]): TBD
 
 
 This document is intended to guide developers, artists, and content creators in understanding the intricate details of the game mechanics and the interplay between different elements. By adhering to the guidelines and concepts outlined herein, we aim to create a consistent experience that will captivate our players for years to come.

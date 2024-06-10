@@ -1,4 +1,3 @@
-
 **Target audience**
 
 Citadel is pioneering into the realm of native onchain gaming, specifically designed for a core audience accustomed with blockchain technology.  

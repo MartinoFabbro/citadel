@@ -4,4 +4,4 @@ This randomization ensures that each sector offers unique opportunities and chal
 
 While the placement is random, the distribution follows a general pattern influenced by the fulcrum constraints.
 
-The presence of resource hotspots creates areas of high competition and potential conflict. Players must be prepared to defend their mining operations from rivals and may form alliances to secure and exploit these valuable areas.
+The presence of resource hot spots creates areas of high competition and potential conflict. Players must be prepared to defend their mining operations from rivals and may form alliances to secure and exploit these valuable areas.

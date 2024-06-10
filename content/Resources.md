@@ -29,7 +29,8 @@ Minerals in games typically vary across several dimensions that affect their use
 2. **Hardness:** Determines a mineral's resistance. Harder minerals are ideal for creating durable surfaces and protective coatings, essential for combat ships and defensive structures.
 3. **Conductivity:** This can refer to either thermal or electrical conductivity. Minerals with high electrical conductivity are crucial for electronic components and power systems, while those with high thermal conductivity are used in power grid management systems.
 4. **Targeted Resistance Properties of Minerals:** This refers to minerals that exhibit specific resistance to different types of weaponry are crucial for crafting defensive components tailored to varied combat scenarios. Certain minerals might be particularly effective at absorbing or deflecting energy-based attacks, making them ideal for shielding against lasers or plasma weapons. Others might possess high resistance to physical damage, such as projectiles or explosive impacts.
-7. **Magnetism**: The higher the magnetism of the material the higher will be the signature radius of the ship.
+7. **Elasticity**: The higher the magnetism of the material the higher will be the signature radius of the ship.
+8. Strength
 
 […]  
 

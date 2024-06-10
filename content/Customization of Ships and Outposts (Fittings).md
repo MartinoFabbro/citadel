@@ -25,6 +25,7 @@ The layout grid system is a 2D grid where each cell represents a unit of space t
 
 **Strategic Placement:** Players must strategically place these modules within the grid, considering factors like power distribution, weight balance, and spatial efficiency. Efficient fitting can make the difference between a formidable battleship and a vulnerable target.
 
+![[Pasted image 20231016215521 1.png]]
 ### Outpost Fitting
 
 **Outposts** in **Citadel**, including both Citadels and Temporary Outposts, also utilize the layout grid system for customization. The grid layout of an outpost determines how many and what types of modules can be installed, influencing the outpost’s capabilities and strategic value.
@@ -44,3 +45,6 @@ The layout grid system is a 2D grid where each cell represents a unit of space t
     - **Command and Control:** Modules that enhance the outpost’s operational capabilities, including communication arrays and strategic planning centers.
 
 Players must balance space for production, defense, and support facilities is crucial to creating an effective and resilient outpost.
+
+
+Gary lives in Gallente space--a place with resources that encourage blasters and armor. To his south lives Arya, with her armor and laser focused resources. To his east is Casper, a guy who has a fleet consistent of shield and missile ships. Through warfare, Gary has conquered some of Arya's space, and has a decent supply of resources to make lasers. Lasers have an "L" tetris shape. Blasters have a "Z" tetris shape.  When Gary is fighting Arya, he wants to equip his ship with the armor-piercing blasters. When Gary is fighting Casper, he wants to use the lasers
