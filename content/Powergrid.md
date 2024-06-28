@@ -1,0 +1,1 @@
+The powergrid connects the ship's generator and capacitor to its equipment. It limits the total power that can circulate the ship at any one time. Even if the [[Capacitor]] has sufficient power, equipment can only be active if the total power drawn by all the equipment doesn't exceed the powergrid's rating.

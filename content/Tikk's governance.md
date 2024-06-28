@@ -64,8 +64,7 @@ My proposal to achieve this:
 
 This is to give the council a stake in the game's health:
 * If the council is unanimous, they can implement any that isn't blocked by the constitution immediately.
-* If the council has a disagreement or there are fewer than twelve council members in good standing,
-* the people will vote on the topic with a threshold inverse to the remaining council members' yes votes. (four vote yes, 33.7% threshold to pass; ten vote yes, 83.3% threshold to pass).
+* If the council has a disagreement or there are fewer than twelve council members in good standing, the people will vote on the topic with a threshold inverse to the remaining council members' yes votes. (four vote yes, 66.7% threshold to pass; ten vote yes, 16.7% threshold to pass).
 * If a council member wishes to retire, he can nominate his replacement. That replacement has to be voted in with the above rules.
 * If the nominee fails the vote, the nominating council member has his tokens slashed.
 * To give governance tokens value and to give players agency, players can initiate two types of votes, in addition to the tie-breaker mechanic above:

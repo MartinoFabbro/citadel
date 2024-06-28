@@ -1,3 +1,5 @@
+
+TLDR: [[Governance Pillars]]
 ## Introduction
 
 This article blends in literature review regarding DAOs and CO-OPs with the goal of providing an actionable social framework for Citadel.
@@ -152,17 +154,14 @@ In the following two chapters we will try and give some actionable insights abou
 
 ## Lazy consensus
 
-
+Lazy consensus is a method for decision-making according to which proposals within a group may be presumed to pass unless any explicit objections arise. It blends features of [do-ocracy](https://medlabboulder.gitlab.io/democraticmediums/mediums/do-ocracy/) and [consensus process](https://medlabboulder.gitlab.io/democraticmediums/mediums/lazy_consensus/consensus_process.md). The Apache Software Foundation, which holds lazy consensus as a value, [summarizes](https://community.apache.org/committers/lazyConsensus.html) the method as "silence is consent."
 
 ## Liquid democracy
-
-*There are too many variables in play to predict just one plausible trajectory for the future of our democratic institutions. If we enter a decade of synthetic media without restrictions, increased algorithmic determinism and financial incentives that favor competition over collaboration, the core strengths of our democracies will have eroded. Citizens will be more vulnerable to misleading information and will be served the kinds of content that capture their attention. However, if we develop guardrails, norms and standards now that encourage transparency, authenticity and collaboration, our democratic institutions could be significantly strengthened.*
-(**Amy Webb**)
 
 *Democracies will look a lot like they do today: stable, peaceful and equitable in countries that succeed in maintaining good governance, sclerotic and messy in flawed democracies captured by corporate influence, and devolving toward authoritarianism, or outright dissolving into civil wars in others.*
 (**Alexander B. Howard**)
   
-In communities with conflicting interests, such as Citadel's, direct democracies risk exacerbating divisions and leading to instability due to the potential for majority tyranny and the marginalization of minority groups, resulting in erratic policy swings and ineffective governance​ ([Cambridge](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/democratic-effect-of-direct-democracy/4CA3ECDD249268E630F564721E8B7DFE))​​ ([Democracy Technologies](https://democracy-technologies.org/getting-started/delegative-democracy-an-introduction/))​.
+In communities with internal conflicting interests, such as ours, direct democracies risk exacerbating divisions and leading to instability due to the potential for majority tyranny and the marginalization of minority groups, resulting in erratic policy swings and ineffective governance​ ([Cambridge](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/democratic-effect-of-direct-democracy/4CA3ECDD249268E630F564721E8B7DFE))​​ ([Democracy Technologies](https://democracy-technologies.org/getting-started/delegative-democracy-an-introduction/))​.
 
 A promising solution to the issues of direct democracy in digital communities and co-ops is the concept of "Liquid Democracy," which blends elements of both direct and representative democracy.
 
@@ -188,22 +187,25 @@ In this system, governance is conducted by an pseudoanonymous board of experts o
 
 ## Citadel Liquid Governance System
 
-Below are the key points of our proposal. These points assume that voters have the ability to cast their vote, which will be discussed in the next chapter.
+Below are the key points of our proposal. These points assume that voters have the ability to cast their vote, which will be discussed in another next chapter.
 
-- We consider a generalization of the standard liquid democracy setting by allowing voters to specify multiple potential delegates, together with a preference ranking among them. This generalization increases the number of possible delegation paths and enables higher participation rates because fewer votes are lost due to delegation cycles or abstaining agents. ([breadth-first Delegation system](https://arxiv.org/pdf/1811.03710))
-- For each working group each voter rank multiple, potential delegates based on **trust, expertise, and alignment with his views**. For example a voter might rank Delegate A as first choice for the finance group, Delegate B as first choice for the development group and Delegate C as second choice for the finance group. Or the voter might just delegate everything to Delegate D.
+**Additionally, the points outlined focus on the initial state of the DAO, where responsiveness and quick action are crucial for the game's success.**
+The goal is to provide the citadel head a high degree of executive freedom while still allowing the community to voice their dissent and, in extreme cases, vote to remove a council member.
+
+- We consider a generalization of the standard liquid democracy setting by allowing voters to specify multiple potential delegates, together with a preference ranking among them (in case the first delegate does not vote or does not delegate to a voter). This generalization increases the number of possible delegation paths and enables higher participation rates because fewer votes are lost due to delegation cycles or abstaining agents. ([breadth-first Delegation system](https://arxiv.org/pdf/1811.03710))
+- For each working group each voter rank a delegate based on **trust, expertise, and alignment with his views**. For example a voter might rank Delegate A as first choice for the finance group, Delegate B as first choice for the development group and Delegate C as second choice for the finance group. Or the voter might just delegate everything to Delegate D.
 - The system will follow the ranked delegation preferences to find a suitable delegate. This can be done using either Depth-first Delegation (DFD) or Breadth-first Delegation (BFD), with BFD being preferred for its efficiency in minimizing lost votes.
-- A proposal must have the following traits:
-	- An in-depth description of the idea
-	- A list of owners
-	- A list of initial supporters 
-- A proposal should ideally follow those steps, however **each working group should be able to internally define how to reach consensus**:
-	- **First phase**: the proposal is posted on the working group, every member of the working group can see it and can support the initiative and eventually give feedbacks regarding the core idea, once a proposal is posted on the working group it has 4 weeks in order to pass the quorum and be admitted to the initial working phase.
-	- **Second phase**: Once a proposal pass the initial quorum the working phase starts, during this phase the owners are able to take in feedbacks from the working group and eventually update the proposal (the initial supporters are alerted of this and are able to withdraw their initial support, if the modified proposal falls below the quorum threshold for more than 1 week, the proposal is aborted). The working groups members are able to fork the proposal as well, and make sub-proposal based on the original one, those sub proposal are called **variations**. The original proposal and its variations form a **proposal cluster.**
-	- **Third Phase**: After the working phase concludes, the proposal cluster transitions into the voting phase, utilizing the Schulze voting method. This phase lasts for a total of 4 weeks. Following the voting period, a one-week review period begins. During this grace period, delegators have the opportunity to evaluate whether they are satisfied with how their vote was cast. If they are not satisfied, they can choose to withdraw their delegation and either vote directly or delegate their vote to someone else.
-- In case of a working group deciding for a rigid voting structure rather than a more relaxed consensus-reaching method, we  propose the Schulze method to rank the preferences of each voter and to avoid problems such as [Condorcet's Paradox](https://en.wikipedia.org/wiki/Condorcet_paradox#:~:text=In%20social%20choice%20theory%2C%20a,way%20that%20is%20self%2Dcontradictory.) and  [the clone proposal problem](https://en.wikipedia.org/wiki/Independence_of_clones_criterion), The [Schulze method](https://en.wikipedia.org/wiki/Schulze_method) is a voting system designed to select a winner in an election based on ranked preferences of voters. It's used for single-winner elections but can be extended to multi-winner contexts. In case of a Tie the proposal with the higher number of "wise owl" votes is declared the winner. If we still have a Tie, then the head of the specific working group, that sit in the council. will decide which proposal should win or if to keep a status quo.
-
-
+- Citadel will be formed by a fixed amount of council members, which will have executive freedom to forward any change into the game,
+- ~~A proposal must have the following traits:~~
+	- ~~An in-depth description of the idea~~
+	- ~~A list of owners~~
+	- ~~A list of initial supporters~~ 
+- ~~A proposal should ideally follow those steps, however **each working group should be able to internally define how to reach consensus**:~~
+	- ~~**First phase**: the proposal is posted on the working group, every member of the working group can see it and can support the initiative and eventually give feedbacks regarding the core idea, once a proposal is posted on the working group it has 4 weeks in order to pass the quorum and be admitted to the initial working phase.~~
+	- ~~**Second phase**: Once a proposal pass the initial quorum the working phase starts, during this phase the owners are able to take in feedbacks from the working group and eventually update the proposal (the initial supporters are alerted of this and are able to withdraw their initial support, if the modified proposal falls below the quorum threshold for more than 1 week, the proposal is aborted). The working groups members are able to fork the proposal as well, and make sub-proposal based on the original one, those sub proposal are called **variations**. The original proposal and its variations form a **proposal cluster.**~~
+	- ~~**Third Phase**: After the working phase concludes, the proposal cluster transitions into the voting phase, utilizing the Schulze voting method. This phase lasts for a total of 4 weeks. Following the voting period, a one-week review period begins. During this grace period, delegators have the opportunity to evaluate whether they are satisfied with how their vote was cast. If they are not satisfied, they can choose to withdraw their delegation and either vote directly or delegate their vote to someone else.~~
+- ~~In case of a working group deciding for a rigid voting structure rather than a more relaxed consensus-reaching method, we  propose the Schulze method to rank the preferences of each voter and to avoid problems such as [Condorcet's Paradox](https://en.wikipedia.org/wiki/Condorcet_paradox#:~:text=In%20social%20choice%20theory%2C%20a,way%20that%20is%20self%2Dcontradictory.) and  [the clone proposal problem](https://en.wikipedia.org/wiki/Independence_of_clones_criterion), The [Schulze method](https://en.wikipedia.org/wiki/Schulze_method) is a voting system designed to select a winner in an election based on ranked preferences of voters. It's used for single-winner elections but can be extended to multi-winner contexts. In case of a Tie the proposal with the higher number of "wise owl" votes is declared the winner. If we still have a Tie, then the head of the specific working group, that sit in the council. will decide which proposal should win or if to keep a status quo.~~
+- 
 
 
 

@@ -1,0 +1,5 @@
+Equipment can have one of several states:
+* offline; the equipment consumes no resources and can be repaired, but offers no functionality. To go from *offline* to any other state will require a bootup period where resources of the *online* state is consumed, but no functionality is provided.
+* Online; the equipment's most basic state. Power and CPU are consumed, but at the lowest level. Some equipment offer functionality at this state whereof some only has this state besides the *offline* state.
+* Active; the equipment is in active use with all its functionality being available. This state consumed more resources than the *online* state. Some equipment have multiple levels of *active* states with different level of performance and resource consumption.
+* Overloaded; the equipment is pushed past its limit to gain a boost in performance at the cost of increased resource consumption and damage to the equipment over time.

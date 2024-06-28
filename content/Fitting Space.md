@@ -1,0 +1,7 @@
+Spaceships come out of the factory as an empty shell that must be filled with equipment to be operational. Everything from generators to weaponry must somehow be fit inside before the ship is usable. The goal here is to avoid a situation where players can find a best cookie-cutter. To achieve this, players have to actually *fit* the equipment that come in varying sizes and shapes inside the ship. Ships have at least one floor laid out in a 2D plane and divided up in equal squares. Equipment have Tetris-like shapes and must be placed strategically to minimize dead space and maximize the efficacy of the ship's intended role.
+
+To make this more interesting, equipment associated with different [[Tank and Damage Types]] have different shapes to force different configurations; with six tank types and 12 damage types, that would require around 72 cookie-cutter fits to deal with any opponent. Add further regional-specific factors such as engine types to make a global fitting database impossible.
+
+Ships are generally equipped with the largest weapon hardpoints at the front and/or side, with smaller weapon [[Hardpoints]] to defend the [[Weak Points]] behind from smaller and nimbler crafts. In cases where the primary [[Hardpoints]] are on a side, a player should consider the pros and cons of an asymmetrical configuration with the heavy turrets on one side. Not only will this save fitting resources, but it'll make fitting asymmetrical equipment easier, too.
+
+![[Pasted image 20231016215521 1.png]]
